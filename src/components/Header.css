@@ -9,12 +9,14 @@
 }
 
 .navbar-expand{
+    
     overflow-x: hidden;
     border-bottom: 1px solid  #E7E7E7 ;
 
 }
-@media (max-width: 100px){
+@media (max-width: 1200px){
     .navbar-expand .navbar-nav {
+        display: flex;
         flex-direction:column;
        
     }

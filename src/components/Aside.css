@@ -1,0 +1,18 @@
+
+.btn:hover{
+    border: none;
+    color:#FF5956 ;
+}
+
+
+.btn{
+    border: none;
+}
+
+li{
+    width: 240px;
+}
+.names{
+    width: 250px;
+}
+

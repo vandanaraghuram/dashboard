@@ -1,0 +1,19 @@
+.dates .coldate:hover{
+    color: white;
+    background-color: 
+    #FF5956;
+    border: 1px solid 
+    #FF5956;
+    border-radius: 3px;
+    width: 40px;
+    cursor: pointer;
+}
+
+.dates .coldate p{
+    color:#757575;
+}
+.dates .coldate p:hover{
+    color:#ffffff;
+}
+
+

@@ -1,0 +1,37 @@
+.nav{
+    margin-left: 30%;
+
+}
+
+.navitem{
+    margin-left: 3rem;
+   
+}
+
+.navbar-expand{
+    overflow-x: hidden;
+    border-bottom: 1px solid  #E7E7E7 ;
+
+}
+@media (max-width: 100px){
+    .navbar-expand .navbar-nav {
+        flex-direction:column;
+       
+    }
+}
+
+
+
+@media (max-width: 900px){
+   .nav{
+    margin-left: 10%;
+   }
+   
+   .navbar-expand .navbar-nav {
+    flex-direction:column;
+}
+        
+
+
+
+}
